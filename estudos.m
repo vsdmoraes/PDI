@@ -30,6 +30,5 @@
 #subplot(1,3,2);imshow(B);
 #Output = imsubtract(A,B);
 #subplot(1,3,3);imshow(Output);
-
 #Output = imabsdiff(A,B)
 #subplot(1,3,3);imshow(Output);
